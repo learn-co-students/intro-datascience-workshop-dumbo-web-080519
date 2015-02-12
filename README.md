@@ -4,7 +4,7 @@ This is the repository that holds all curricular materials for the Introduction 
 ##In order for this repository to work on your computer you will need the following:
 
 1. [python 2.7](https://www.python.org/downloads/release/python-279/) - You should be ok with the version of python (usually either **2.6 or 2.7**) installed on your computer by default, but check and make sure!
-2. [ipython with the notebook extension](http://ipython.org/install.html)
+2. [ipython with the notebook extension](http://ipython.org/install.html) - This will give you the environment in which we will be writing all of our code. It is [incredibly useful](http://ipython.org/notebook.html).
 3. [pandas](http://pandas.pydata.org/getpandas.html) - This is the data analysis framework, built in python, that we will be using during the course.
 
 ## The lessons in this repository are all stored in the folders `day1` and `day2`:
