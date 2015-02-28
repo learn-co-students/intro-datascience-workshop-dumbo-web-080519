@@ -6,7 +6,12 @@ This is the repository that holds all curricular materials for the Introduction 
 1. [python 2.7](https://www.python.org/downloads/release/python-279/) - You should be ok with the version of python (usually either **2.6 or 2.7**) installed on your computer by default, but check and make sure!
 2. [ipython with the notebook extension](http://ipython.org/install.html) - This will give you the environment in which we will be writing all of our code. The notebook extension is [incredibly useful](http://ipython.org/notebook.html)!
 3. [pandas](http://pandas.pydata.org/getpandas.html) - This is the data analysis framework, built in python, that we will be using during the course.
-4. [cyberduck](https://cyberduck.io) or some other client for getting the data required off of the flatiron-school Amazon S3 server. You should have received access credentials for this already. If not, please let me know and we will get you squared away!
+
+## The Data Sets
+
+  * [NYC Taxi Data](http://flatiron-data-science.s3.amazonaws.com/nycTaxiData.zip)
+  * [Movie Data](http://flatiron-data-science.s3.amazonaws.com/movieData.zip)
+  * [Crowd Sourced Price Collection](http://flatiron-data-science.s3.amazonaws.com/Crowd-Sourced_Price_Collection_CSV.zip)
 
 ## The lessons in this repository are all stored in the folders `day1` and `day2`:
 
