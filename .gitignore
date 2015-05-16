@@ -4,3 +4,8 @@ day1/movieData/users.dat
 day1/nycTaxiData/trip_data_1.csv
 day1/nycTaxiData/trip_fare_1.csv
 day1/nycTaxiData/trip_fare_1_trimmed.csv
+weekend1/movieData/movies.dat
+weekend1/movieData/ratings.dat
+weekend1/movieData/users.dat
+weekend1/nycTaxiData/trip_data_1_trimmed.csv
+weekend1/nycTaxiData/trip_fare_1_trimmed.csv
