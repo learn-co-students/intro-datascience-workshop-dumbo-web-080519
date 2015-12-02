@@ -31,3 +31,5 @@ This is the repository that holds all curricular materials for the Introduction 
 2. **Lab 4:** We finish by implementing our own 
 
 ##Happy Hacking!
+
+<a href='https://learn.co/lessons/intro-datascience-workshop' data-visibility='hidden'>View this lesson on Learn.co</a>
