@@ -32,4 +32,4 @@ This is the repository that holds all curricular materials for the Introduction 
 
 ##Happy Hacking!
 
-<a href='https://learn.co/lessons/intro-datascience-workshop' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-datascience-workshop' title='intro-datascience-workshop'>intro-datascience-workshop</a> on Learn.co and start learning to code for free.</p>
